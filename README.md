@@ -13,43 +13,45 @@ Criar uma aplicação que retorne do banco de dados os restaurantes cadastrados.
 
 #### AWS: EC2.
 
-![EC2](imagens/Captura de tela 2024-03-15 175312.png)
+![EC2](imagens/ec2was.png)
 
-![EC2](imagens/Captura de tela 2024-03-15 174623.png)
+![EC2](/imagens/conexaoec2.png)
 
 #### AWS: RDS.
 
-![EC2](imagens/Captura de tela 2024-03-15 175807.png)
+![BANCO](imagens/bancoaws.png)
 
-![EC2](imagens/Captura de tela 2024-03-15 175339.png)
+![BANCO](imagens/postgreetermial.png)
 
 #### Git:
 
-![Git](imagens/Captura de tela 2024-03-15 174748.png)
+![Git](imagens/git.png)
 
 #### FRONTEND: Vite, React.
 
-![FRONTEND](imagens/Captura de tela 2024-03-15 180354.png)
+![FRONTEND](imagens/npmfrontend.png)
 
-![FRONTEND](imagens/Captura de tela 2024-03-15 180254.png)
+![FRONTEND](imagens/npmrundev.png)
 
+para exemplificar que no local o front estava rodando.
 
 #### BACKEND: Nodejs, express.
 
 (Tentei muito, durante dias, mas não consegui conectar)
 
-![BACKEND](imagens/Captura de tela 2024-03-15 180612.png)
+![BACKEND](imagens/npmbackend.png)
 
-![BACKEND](imagens/Captura de tela 2024-03-15 180203.png)
+![BACKEND](imagens/npmstart.png)
+
+O acesso sem ser pelo localhost falhou por conta do backend...
 
 #### BANCO: Postgree.
 
-![BANCO](imagens/Captura de tela 2024-03-15 180612.png)
+![BANCO](imagens/entidades.png)
 
-![BANCO](imagens/Captura de tela 2024-03-15 175830.png)
+![BANCO](imagens/chefs.png)
 
-![BANCO](imagens/Captura de tela 2024-03-15 175930.png)
+![BANCO](imagens/pratos.png)
 
-![BANCO](imagens/Captura de tela 2024-03-15 180020.png)
+![BANCO](imagens/restaurantes.png)
 
-![BANCO](imagens/Captura de tela 2024-03-15 180050.png)
